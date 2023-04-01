@@ -17,7 +17,9 @@ This application is built using C# programming language and the .NET framework, 
 
 AES is a widely-used symmetric encryption algorithm that has been adopted by the US government as a standard for securing sensitive information. It involves the use of a secret key to encrypt and decrypt data, ensuring that only those with the key can access the information. This project generates a key from the user's password using the 'Rfc2898DeriveBytes' function, which applies a hash function to the password and a salt value to generate a secure key. The encrypted data is then stored in a file, and can only be decrypted by someone with the key (i.e., the user who knows the password).
 
-![Screenshot 2023-03-31 224405](https://user-images.githubusercontent.com/85328038/229264166-88dee837-f73d-41cd-a097-14ed3a81001d.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85328038/229264166-88dee837-f73d-41cd-a097-14ed3a81001d.png" />
+</p>
 
 ##
 Example of an .hd file attempting to be viewed outside the decryption:
