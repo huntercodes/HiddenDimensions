@@ -1,6 +1,6 @@
 # HiddenDimensions
 ##
-Encrypt and Decrypt files into the custom file extension '.hd'!
+Encrypt and Decrypt files into the custom file extension '.hd'
 
 ![Screenshot 2023-03-31 224405](https://user-images.githubusercontent.com/85328038/229264166-88dee837-f73d-41cd-a097-14ed3a81001d.png)
 
