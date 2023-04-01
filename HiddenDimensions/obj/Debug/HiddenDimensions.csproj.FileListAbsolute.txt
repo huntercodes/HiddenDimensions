@@ -1,0 +1,11 @@
+C:\Users\hunte\source\repos\HiddenDimensions\bin\Debug\HiddenDimensions.exe.config
+C:\Users\hunte\source\repos\HiddenDimensions\bin\Debug\HiddenDimensions.exe
+C:\Users\hunte\source\repos\HiddenDimensions\bin\Debug\HiddenDimensions.pdb
+C:\Users\hunte\source\repos\HiddenDimensions\obj\Debug\HiddenDimensions.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\HiddenDimensions\obj\Debug\HiddenDimensions.csproj.SuggestedBindingRedirects.cache
+C:\Users\hunte\source\repos\HiddenDimensions\obj\Debug\HiddenDimensions.Form1.resources
+C:\Users\hunte\source\repos\HiddenDimensions\obj\Debug\HiddenDimensions.Properties.Resources.resources
+C:\Users\hunte\source\repos\HiddenDimensions\obj\Debug\HiddenDimensions.csproj.GenerateResource.cache
+C:\Users\hunte\source\repos\HiddenDimensions\obj\Debug\HiddenDimensions.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\HiddenDimensions\obj\Debug\HiddenDimensions.exe
+C:\Users\hunte\source\repos\HiddenDimensions\obj\Debug\HiddenDimensions.pdb
